@@ -1,54 +1,83 @@
 # Ivan Duarte | Full-Stack Developer
 
 ## 👨‍💻 About Me
-Full-Stack Developer with focus on backend systems, based in Bogotá, Colombia. I specialize in building scalable applications, data processing systems, and developer productivity tools using Node.js, Python, React, and MongoDB.
+
+Full-Stack Developer and Founder of **ByteUp LLC**, based in Bogotá, Colombia. I specialize in building scalable SaaS applications, contributing to open source projects, and creating developer productivity tools. Currently building **[TroveTrends](https://trovetrends.com)** - a modern blog platform with affiliate marketing capabilities.
+
 
 ## 🛠️ Technical Skills
 
 ### Backend
-- **Languages:** Node.js, Python, JavaScript/TypeScript
+- **Languages:** Python, Node.js, JavaScript/TypeScript
+- **Frameworks:** Flask, Express.js, Next.js API routes
 - **Databases:** PostgreSQL, MongoDB, Firebase Firestore, Neon PostgreSQL
-- **APIs:** RESTful API design, asynchronous processing
+- **APIs:** RESTful API design, asynchronous processing, FRED API, OpenAI API
 
 ### Frontend
-- **Frameworks:** React, Next.js, Flutter
-- **Styling:** Tailwind CSS, CSS3
-- **UI/UX:** Responsive design, user-centric interfaces
+- **Frameworks:** Next.js 14+, React, Flutter
+- **Styling:** Tailwind CSS, shadcn/ui components
+- **Features:** App Router, TypeScript, responsive design
+
+### Data Science & AI
+- **Libraries:** SciPy, NumPy, Pandas, Matplotlib
+- **AI Integration:** OpenAI Whisper API, audio transcription
+- **Testing:** pytest, unittest, comprehensive test coverage
 
 ### DevOps & Tools
-- **Deployment:** Vercel, Firebase, AWS
-- **Version Control:** Git, GitHub
-- **Tools:** Webpack, Babel, ESLint
+- **Deployment:** Vercel, Firebase, AWS, Docker
+- **Version Control:** Git, GitHub (feature branch workflow)
+- **Tools:** ESLint, Firebase Admin SDK, SendGrid
 
 ## 🚀 Featured Projects
 
-### Automated Reporting System
-Python-based system that generates reports from CSV data, connects to PostgreSQL databases, and automates email delivery.
-<!-- Link to repo when public -->
+### 🌟 TroveTrends Platform
+**Production SaaS Platform** - Modern blog platform with Next.js 14, TypeScript, and Firebase
+- **Frontend:** Component-based architecture with Tailwind CSS
+- **Admin Dashboard:** Email marketing automation, subscriber management
+- **Features:** Contact forms, newsletter system, maintenance mode
+- 🔗 **Live:** [trovetrends.com](https://trovetrends.com)
 
-### Real-Time Insight Engine
-Backend system providing real-time analytics with asynchronous data processing and Neon PostgreSQL integration.
-<!-- Link to repo when public -->
+### 📊 U.S. Inflation Tracker
+**Data Visualization Web App** - FRED API integration with interactive charts
+- Flask backend with Matplotlib visualization
+- Custom date range selection and normalized inflation data
+- Environment variable management for API keys
 
-### Liquor Store App
-E-commerce platform for the Colombian market built with Flutter and Firebase, featuring user authentication and order management.
-<!-- Link to repo when public -->
+### 🎯 Task Tracker CLI
+**Python CLI Tool** - Professional command-line task management system
+- Clean architecture: separate CLI, manager, and logging modules
+- JSON persistence with comprehensive unit testing
+- Docker containerization and proper documentation
 
-### SEO Assistant
-Chrome extension that analyzes webpages for essential SEO metrics, built with JavaScript and organized using the MVC pattern.
-<!-- Link to repo when public -->
+### 🎙️ Audio Transcription Tools
+**AI Integration** - Multiple audio processing applications
+- OpenAI Whisper API integration for speech-to-text
+- Audio format conversion with pydub and FFmpeg
+- Support for various audio formats with error handling
+
+### 📈 Automated Reporting System
+**Enterprise Tool** - Report generation and email automation
+- PostgreSQL database integration with Neon
+- PDF report generation from CSV data
+- SMTP email delivery with comprehensive testing
 
 ## 🌱 Current Focus
-- Exploring AI integration within developer tools
-- Modernizing legacy systems with scalable architectures
-- Creating tools that boost developer productivity
+
+- **AI Training & Code Review:** Evaluating AI-generated code for production readiness
+- **SaaS Development:** Scaling TroveTrends platform with advanced features
+
+## 🏢 ByteUp LLC
+
+Founder of ByteUp LLC, developing innovative web applications and contributing to the open source ecosystem. Currently focused on content marketing automation and developer productivity tools.
 
 ## 📫 Connect With Me
-- [DEV.to](https://dev.to/ivansing)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+
+- 🌐 **Company:** [ByteUp LLC](https://trovetrends.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/lance-dev/)
+- 📝 **DEV.to:** [dev.to/ivansing](https://dev.to/ivansing)
+- 📧 **Email:** [contact@byteup.co](mailto:contact@byteup.co)
 
 ## ⚡ Fun Facts
-- Always experimenting with new technologies
-- Constant learner through documentation and tutorials
-- Powered by coffee and clean code
+
+- ☕ Powered by coffee and test-driven development
+- 🚀 Building production SaaS applications from concept to deployment

@@ -1,4 +1,4 @@
-# Ivan Duarte | Full-Stack Developer
+# Ivan Duarte | Full-Stack Software Engineer
 
 ## About Me
 

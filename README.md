@@ -4,7 +4,7 @@
 
 Full-Stack Developer and Founder of ByteUp LLC, based in Bogotá, Colombia. I've been programming since 2011 — over 14 years of building, breaking, and learning from real projects. Started with the fundamentals through books and documentation, got my formal foundation at NextU (Web Development, 2016) and the UBC Software Development MicroMasters (Java, object-oriented design, software construction), and never stopped studying since. edX Cloud Native Applications, CodeAcademy Computer Science, freeCodeCamp Backend APIs — I stack certifications when they teach me something real, not for decoration.
 
-I specialize in SaaS applications, API integrations, and data migration systems. Over the last 4+ years I've focused professionally on production-grade projects for clients across the US, Mexico, and Colombia.
+I specialize in SaaS applications, API integrations, and data migration systems. Over the last 5+ years I've focused professionally on production-grade projects for clients across the US, Mexico, and Colombia.
 
 I work architecture-first. Before writing any code, I produce diagrams, roadmaps, and technical specs. C4 Model, DFD, UML, ERD — whatever the project needs to have a solid blueprint before development starts. That approach has saved me and my clients from costly rework every single time.
 
@@ -39,9 +39,6 @@ Live at trovetrends.com
 
 ### Abuelo Cómodo — Enterprise Data Migration (Delivered)
 Built a custom Python ETL framework that migrated 247,709 records from 6 Excel files (99 sheets) to PostgreSQL on Supabase for a retail business in Mexico. Modular architecture with configurable cleaning rules, batch imports with FK dependency ordering, database triggers, Edge Functions, and Shopify webhook integration. Delivered with 99.96% success rate and comprehensive reporting.
-
-### Enterprise API Integration Projects (NDA)
-Delivered production API integration contracts involving OAuth2 authentication with automatic token refresh, rate limit handling with backoff logic, multi-source credential management, and read-only data extraction from REST endpoints. Work included Python ETL pipelines and Java/Spring Boot OAuth2 PKCE implementations with full test coverage, Axios/TanStack Query integration, and documentation for handoff.
 
 ### Automated Reporting System
 Python-based system that processes data from PostgreSQL (Neon), generates professional PDF reports, and automates email delivery via SendGrid. Comprehensive test coverage and modular architecture.

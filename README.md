@@ -2,7 +2,7 @@
 
 ## About Me
 
-Full-Stack Software Engineer and founder of ByteUp LLC, based in Bogotá, Colombia. Programming since 2011 (14 years), with 5+ years of focused production experience since 2021 — shipping SaaS products under the ByteUp brand and delivering contract engagements for clients in the US, Mexico, and Colombia.
+Full-Stack Software Engineer and founder of ByteUp LLC, based in Bogotá, Colombia. Programming since 2011 (14 years), with 5+ years of focused production experience since 2021 — shipping  products under the  and delivering contract engagements for clients in the US, Mexico, and Colombia.
 
 My formal foundations came from NextU (Web Development, 2016), the UBC Software Development MicroMasters (Java, object-oriented design, software construction, 2017), and certifications from edX (Cloud Native Applications), CodeAcademy (Computer Science), and freeCodeCamp (Backend APIs). But the real education has been the active portfolio of ByteUp products and client systems I've shipped — 40+ real projects, with the majority kept private for client confidentiality or ongoing product development.
 

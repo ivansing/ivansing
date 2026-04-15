@@ -29,8 +29,6 @@ I specialize in SaaS platforms, API integrations, data migration systems, and e-
 
 I work architecture-first. Before writing any code, I produce diagrams, roadmaps, and technical specs — C4 Model, DFD, UML, ERD — whatever the project needs to have a solid blueprint before development starts. That approach has saved me and my clients from costly rework every single time.
 
-Currently building FixDoc, a multi-tenant document verification SaaS for the mortgage industry, and maintaining TroveTrends (trovetrends.com), a live content platform with integrated email marketing.
-
 ## Technical Stack
 
 ### Languages & Frameworks
@@ -85,6 +83,7 @@ Multi-tenant platform for the mortgage industry built on Next.js, TypeScript, Su
 What's built: authentication with account lockout, multi-tenant organizations with RLS isolation on every table, 6-role RBAC system, CRM module, Stripe billing with 3 subscription tiers, project management with status workflows, document upload with Supabase Vault for PII, 3-layer fraud detection engine, OpenAI-powered AI assistant, real-time WebSocket updates, internal notes system, and admin dashboards with audit logging.
 
 Stack: Next.js 16 · React 19 · TypeScript · Supabase · PostgreSQL · Stripe · Vercel · Zod · TanStack Query
+Showcase: [fixdoc-showcase](https://github.com/ivansing/fixdoc-showcase)
 
 ### TroveTrends — Content Platform (Live)
 Production platform built with Next.js 14, TypeScript, Firebase, Tailwind CSS, and shadcn/ui. Features server-side rendering for SEO, 12+ API route handlers, newsletter system with SendGrid (confirmation flow, welcome emails, unsubscribe), contact forms with Zod validation, React Hook Form, Recharts data visualization, and a full admin dashboard.
@@ -92,6 +91,7 @@ Production platform built with Next.js 14, TypeScript, Firebase, Tailwind CSS, a
 Live at trovetrends.com
 
 Stack: Next.js 14 · React 18 · TypeScript · Firebase Firestore · SendGrid · Tailwind CSS · shadcn/ui · Recharts
+Showcase: [trovetrends-showcase](https://github.com/ivansing/trovetrends-showcase)
 
 ### Migratex — ETL CLI Tool (Production Product)
 Production-grade CLI tool I built for extracting, transforming, and loading data from Excel to PostgreSQL/Supabase. Originally developed as the migration framework for a retail client in Mexico that required moving **247,709 records across 99 sheets** from legacy Google Sheets/Zapier infrastructure to PostgreSQL with database triggers, Edge Functions, and Shopify webhook integration — delivered with a **99.96% success rate**. After delivery, I refactored the framework into a standalone reusable product with 98 tests, multi-region phone normalization (US, CO, MX, ES, AR, BR), FK dependency ordering, batch processing with progress tracking, fast COPY mode, and comprehensive validation.
@@ -103,6 +103,7 @@ Showcase: [migratex-showcase](https://github.com/ivansing/migratex-showcase)
 REST API for generating and managing payment links with Stripe Checkout integration. Built with FastAPI and SQLAlchemy, features idempotent webhook handling with duplicate event detection, payment status tracking, link expiration support, and clean modular architecture.
 
 Stack: Python · FastAPI · Stripe API · SQLAlchemy · PostgreSQL
+Showcase: [stripe-payment-links-showcase](https://github.com/ivansing/stripe-payment-links-showcase)
 
 ### Alejo — E-commerce Platform (Full System)
 Complete e-commerce system with two applications: an admin dashboard for product/order/category management and a customer-facing storefront with shopping cart, PayPal checkout, and order tracking. Admin includes Google OAuth via NextAuth.js, image uploads to AWS S3 and Firebase Storage, and role-based access control. Frontend features persistent cart state, PayPal SDK integration, and server-side rendering.
@@ -113,6 +114,7 @@ Stack: Next.js · React · MongoDB · Mongoose · NextAuth.js · PayPal SDK · A
 Privacy-focused home automation system designed for Raspberry Pi deployment. Features offline voice processing (Whisper ASR + Piper TTS), real-time IoT control via GPIO, computer vision with OpenCV, rule-based automation engine, and a React dashboard with WebSocket communication. Built with a hardware abstraction layer for sensor monitoring and device control.
 
 Stack: Python · Flask · React · WebSocket · OpenCV · Raspberry Pi · SQLite · Docker
+Showcase: [voice-assistant-showcase](https://github.com/ivansing/voice-assistant-showcase)
 
 ### Liquor Store — Mobile E-commerce App
 Cross-platform mobile app built with Flutter/Dart for the Colombian market. Features Firebase Firestore backend, Bloc state management, Google authentication, product catalog with category browsing, shopping cart, and admin panel built with React.
@@ -153,7 +155,7 @@ Founder of ByteUp LLC. Building SaaS products for underserved markets and delive
 
 - **Company:** ByteUp LLC
 - **Portfolio:** trovetrends.com
-- **GitHub:** github.com/ivansing (130+ repositories)
+- **GitHub:** github.com/ivansing
 - **LinkedIn:** linkedin.com/in/lance-dev
 - **DEV.to:** dev.to/ivansing
 - **Email:** contact@byteup.co

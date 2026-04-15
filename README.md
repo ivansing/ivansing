@@ -2,9 +2,28 @@
 
 ## About Me
 
-Full-Stack Developer and Founder of ByteUp LLC, based in Bogotá, Colombia. I've been programming since 2011 — over 14 years of building, breaking, fixing, and learning from real projects across the full spectrum of web, mobile, and IoT development. My production-grade professional work started in 2021, giving me 5+ years of focused experience shipping software for clients and building my own SaaS products.
+Full-Stack Software Engineer and founder of ByteUp LLC, based in Bogotá, Colombia. Programming since 2011 (14 years), with 5+ years of focused production experience since 2021 — shipping SaaS products under the ByteUp brand and delivering contract engagements for clients in the US, Mexico, and Colombia.
 
-My formal foundations came from NextU (Web Development, 2016), the UBC Software Development MicroMasters (Java, object-oriented design, software construction, 2017), and certifications from edX (Cloud Native Applications), CodeAcademy (Computer Science), and freeCodeCamp (Backend APIs). But honestly, the real education has been the 130+ projects on my GitHub and the production systems I've shipped for clients in the US, Mexico, and Colombia.
+My formal foundations came from NextU (Web Development, 2016), the UBC Software Development MicroMasters (Java, object-oriented design, software construction, 2017), and certifications from edX (Cloud Native Applications), CodeAcademy (Computer Science), and freeCodeCamp (Backend APIs). But the real education has been the active portfolio of ByteUp products and client systems I've shipped — 40+ real projects, with the majority kept private for client confidentiality or ongoing product development.
+
+## Currently Working On
+
+- **FixDoc** (v0.11.0 → v1.0.0) — multi-tenant document verification SaaS for mortgage and insurance
+- **TroveTrends** ([trovetrends.com](https://trovetrends.com)) — live content platform, ongoing content and infrastructure work
+- **Migratex** — maintaining the ETL CLI tool as a reusable product
+- **Enterprise API integration contracts** — active Upwork and direct-client engagements (NDA)
+
+## Featured Showcase Repositories
+
+Public technical showcases for the ByteUp product line. Each repository contains architecture documentation, diagrams, metrics, and engineering details. Source code is proprietary — contact contact@byteup.co for demos or licensing.
+
+| Product | Repository | Stack | Status |
+|---|---|---|---|
+| **FixDoc** — Document verification SaaS | [fixdoc-showcase](https://github.com/ivansing/fixdoc-showcase) | Next.js 16 · React 19 · TypeScript · Supabase · Stripe · OpenAI GPT-4o | Active development |
+| **TroveTrends** — Content platform | [trovetrends-showcase](https://github.com/ivansing/trovetrends-showcase) | Next.js · TypeScript · Firebase Firestore · SendGrid · Tailwind | Live |
+| **Migratex** — ETL CLI tool | [migratex-showcase](https://github.com/ivansing/migratex-showcase) | Python · Pandas · PostgreSQL · Supabase · Click | Production-ready |
+| **Stripe Payment Links** — REST API | [stripe-payment-links-showcase](https://github.com/ivansing/stripe-payment-links-showcase) | Python · FastAPI · Stripe · SQLAlchemy 2.0 | Production-ready |
+| **Voice Assistant** — IoT platform | [voice-assistant-showcase](https://github.com/ivansing/voice-assistant-showcase) | Python · Flask · React · Whisper · Piper · Raspberry Pi | Production v1.1.0 |
 
 I specialize in SaaS platforms, API integrations, data migration systems, and e-commerce applications. I've built payment systems with both Stripe and PayPal, deployed across Vercel, Firebase, GCP, and AWS, and worked with databases ranging from PostgreSQL and MongoDB to Firebase Firestore and SQLite.
 
@@ -74,15 +93,11 @@ Live at trovetrends.com
 
 Stack: Next.js 14 · React 18 · TypeScript · Firebase Firestore · SendGrid · Tailwind CSS · shadcn/ui · Recharts
 
-### Migratex — ETL CLI Tool (Open Source Product)
-Production-grade CLI tool I built for extracting, transforming, and loading data from Excel to PostgreSQL/Supabase. Started as the migration framework for the Abuelo Cómodo client project, then I refactored it into a standalone reusable product. Features multi-region phone normalization (US, CO, MX, ES, AR, BR), FK dependency ordering, batch processing with progress tracking, fast COPY mode, and comprehensive validation. 98 tests covering CLI, data cleaning, and extraction.
+### Migratex — ETL CLI Tool (Production Product)
+Production-grade CLI tool I built for extracting, transforming, and loading data from Excel to PostgreSQL/Supabase. Originally developed as the migration framework for a retail client in Mexico that required moving **247,709 records across 99 sheets** from legacy Google Sheets/Zapier infrastructure to PostgreSQL with database triggers, Edge Functions, and Shopify webhook integration — delivered with a **99.96% success rate**. After delivery, I refactored the framework into a standalone reusable product with 98 tests, multi-region phone normalization (US, CO, MX, ES, AR, BR), FK dependency ordering, batch processing with progress tracking, fast COPY mode, and comprehensive validation.
 
-Stack: Python · Pandas · PostgreSQL · Supabase · Click CLI
-
-### Abuelo Cómodo — Enterprise Data Migration (Delivered)
-Migrated 247,709 records from 6 Excel files (99 sheets) to PostgreSQL on Supabase for a retail business in Mexico. Built database triggers, Edge Functions, Shopify webhook integration, and event-driven architecture. Delivered with 99.96% success rate and comprehensive JSON/TXT reporting. This is the project that led to building Migratex as a reusable tool.
-
-Stack: Python · PostgreSQL · Supabase · Shopify API
+Stack: Python · Pandas · PostgreSQL · Supabase · Shopify API · Click CLI
+Showcase: [migratex-showcase](https://github.com/ivansing/migratex-showcase)
 
 ### Stripe Payment Links API
 REST API for generating and managing payment links with Stripe Checkout integration. Built with FastAPI and SQLAlchemy, features idempotent webhook handling with duplicate event detection, payment status tracking, link expiration support, and clean modular architecture.
@@ -110,7 +125,7 @@ Delivered production API integration contracts involving OAuth2 authentication w
 ### Additional Projects
 - **Automated Reporting System** — Python + PostgreSQL (Neon) + SendGrid email automation + PDF generation
 - **SEO Assistant Chrome Extension** — JavaScript + Manifest V3, published on Chrome Web Store
-- **130+ repositories** on GitHub covering algorithms, data structures, API integrations, and full-stack applications
+- **Active portfolio** — 40+ real projects, the majority private for client confidentiality or ongoing product development
 
 ## Education & Certifications
 

@@ -8,7 +8,7 @@ My formal foundations came from NextU (Web Development, 2016), the UBC Software 
 
 ## Currently Working On
 
-- **FixDoc** (v0.11.0 → v1.0.0) — multi-tenant document verification SaaS for mortgage and insurance
+- **FixDoc** (v1.0.0-rc.0 → v1.0.0) — multi-tenant document verification SaaS for mortgage and insurance
 - **TroveTrends** ([trovetrends.com](https://trovetrends.com)) — live content platform, ongoing content and infrastructure work
 - **Migratex** — maintaining the ETL CLI tool as a reusable product
 - **Enterprise API integration contracts** — active Upwork and direct-client engagements (NDA)
